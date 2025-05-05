@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/webflow-mcp-server-badge.png)](https://mseep.ai/app/webflow-mcp-server)
+
 # Financial Datasets MCP Server
 
 ## Introduction
