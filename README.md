@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pulumi-mcp-server-badge.png)](https://mseep.ai/app/pulumi-mcp-server)
+
 # Financial Datasets MCP Server
 
 ## Introduction
