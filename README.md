@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vapiai-mcp-server-badge.png)](https://mseep.ai/app/vapiai-mcp-server)
+
 # Financial Datasets MCP Server
 
 ## Introduction
