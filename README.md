@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lambda-capture-mcp-server-badge.png)](https://mseep.ai/app/lambda-capture-mcp-server)
+
 # Financial Datasets MCP Server
 
 ## Introduction
