@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/donphi-mcp-server-badge.png)](https://mseep.ai/app/donphi-mcp-server)
+
 # Financial Datasets MCP Server
 
 ## Introduction
