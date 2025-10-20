@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/agentset-ai-mcp-server-badge.png)](https://mseep.ai/app/agentset-ai-mcp-server)
+
 # Financial Datasets MCP Server
 
 ## Introduction
